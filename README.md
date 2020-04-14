@@ -11,8 +11,8 @@
 
 For this lab you will:
 
-- write SQL statements against a pre-populated database using an online tool. Once you have the correct SQL Statement for each query, write it inside the `queries.sql` file under the appropriate heading.
-- write API endpoints to manage the `accounts` resource, including database logic
+- [x] write SQL statements against a pre-populated database using an online tool. Once you have the correct SQL Statement for each query, write it inside the `queries.sql` file under the appropriate heading.
+- [] write API endpoints to manage the `accounts` resource, including database logic
 
 ### Write Basic Queries
 
